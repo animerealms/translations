@@ -1,0 +1,27 @@
+name: Validate JSON Syntax
+
+on: [pull_request, push]
+
+jobs:
+  json-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install JSON Lint
+        run: sudo apt-get install -y jsonlint
+
+      - name: Check JSON Syntax
+        run: |
+          has_errors=0
+          for file in *.json; do
+            echo "Checking $file..."
+            if ! jsonlint -q "$file"; then
+              echo "❌ Error in $file"
+              has_errors=1
+            else
+              echo "✅ $file is valid"
+            fi
+          done
+          exit $has_errors
