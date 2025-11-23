@@ -1,4 +1,20 @@
 {
+  "Onboarding": {
+    "welcome": "視聴を始める前に...",
+    "description": "より良い体験のために設定を行いましょう！",
+    "getStarted": "始める",
+    "language": "言語を選択",
+    "languageDescription": "アプリのインターフェースで使用する言語を選択してください。",
+    "theme": "テーマを選択",
+    "themeDescription": "あなたのスタイルに合ったテーマを選んでください。",
+    "finish": "準備完了！",
+    "finishDescription": "あなただけのパーソナライズされたアニメ視聴をお楽しみください！",
+    "startWatching": "視聴を開始",
+    "goToSettings": "設定へ移動",
+    "continueAsGuest": "ゲストとして続ける",
+    "continue": "次へ",
+    "loginPrompt": "ログインして、デバイス間で視聴履歴を同期し、パーソナライズされた機能にアクセスしましょう。"
+  },
   "Home": {
     "watched": "続きを観る",
     "trending": "トレンドのアニメ",
@@ -23,7 +39,10 @@
     "save": "保存",
     "reset": "リセット",
     "listprompt": "リストを編集してクラウドに同期",
-    "edit": "編集"
+    "edit": "編集",
+    "back": "戻る",
+    "next": "次へ",
+    "skip": "スキップ"
   },
   "AnimeDialog": {
     "synopsis": "あらすじ",
@@ -151,7 +170,8 @@
     "button": "AniListでログイン",
     "footer": "ログインすることで、利用規約に同意したものとみなされます",
     "logo": "ロゴ",
-    "realmsXAnilist": "Realms x AniList"
+    "realmsXAnilist": "Realms x AniList",
+    "loggedIn": "{name} としてログイン中"
   },
   "404": {
     "title": "迷子になっちゃった？",

@@ -1,4 +1,20 @@
 {
+  "Onboarding": {
+    "welcome": "Before you start watching...",
+    "description": "Let's set some things up to enhance your experience!",
+    "getStarted": "Get Started",
+    "language": "Choose Your Language",
+    "languageDescription": "Select the language you prefer for the app interface.",
+    "theme": "Pick a Theme",
+    "themeDescription": "Choose a theme that suits your style.",
+    "finish": "You're all set!",
+    "finishDescription": "Enjoy your personalized anime streaming experience!",
+    "startWatching": "Start Watching",
+    "goToSettings": "Go to Settings",
+    "continueAsGuest": "Continue as Guest",
+    "continue": "Continue",
+    "loginPrompt": "Sign in to sync your watch progress across devices and access personalized features."
+  },
   "Home": {
     "watched": "CONTINUE WATCHING",
     "trending": "TRENDING ANIME",
@@ -23,7 +39,10 @@
     "save": "Save",
     "reset": "Reset",
     "listprompt": "Edit & Sync your list to the cloud",
-    "edit": "Edit"
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next",
+    "skip": "Skip"
   },
   "AnimeDialog": {
     "synopsis": "SYNOPSIS",
@@ -153,7 +172,8 @@
     "button": "Login with AniList",
     "footer": "By logging in, you agree to our Terms of Service",
     "logo": "Logo",
-    "realmsXAnilist": "Realms x AniList"
+    "realmsXAnilist": "Realms x AniList",
+    "loggedIn": "Logged in as {name}"
   },
   "404": {
     "title": "Are you lost?",

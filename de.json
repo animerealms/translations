@@ -1,4 +1,20 @@
 {
+  "Onboarding": {
+    "welcome": "Bevor du anfängst zu schauen...",
+    "description": "Lass uns ein paar Dinge einrichten, um dein Erlebnis zu verbessern!",
+    "getStarted": "Los geht's",
+    "language": "Wähle deine Sprache",
+    "languageDescription": "Wähle die Sprache, die du für die App-Oberfläche bevorzugst.",
+    "theme": "Wähle ein Design",
+    "themeDescription": "Wähle ein Design, das zu deinem Stil passt.",
+    "finish": "Alles fertig!",
+    "finishDescription": "Genieße dein personalisiertes Anime-Streaming-Erlebnis!",
+    "startWatching": "Jetzt anschauen",
+    "goToSettings": "Zu den Einstellungen",
+    "continueAsGuest": "Als Gast fortfahren",
+    "continue": "Weiter",
+    "loginPrompt": "Melde dich an, um deinen Wiedergabefortschritt über Geräte hinweg zu synchronisieren und auf personalisierte Funktionen zuzugreifen."
+  },
   "Home": {
     "watched": "WEITERSCHAUEN",
     "trending": "ANIME TRENDS",
@@ -23,7 +39,10 @@
     "save": "Speichern",
     "reset": "Zurücksetzen",
     "listprompt": "Bearbeite & synchronisiere deine Liste mit der Cloud",
-    "edit": "Bearbeiten"
+    "edit": "Bearbeiten",
+    "back": "Zurück",
+    "next": "Weiter",
+    "skip": "Überspringen",
   },
   "AnimeDialog": {
     "synopsis": "ZUSAMMENFASSUNG",
@@ -153,7 +172,8 @@
     "button": "Login mit AniList",
     "footer": "Mit dem Login stimmst du unseren Nutzungsbedingungen zu",
     "logo": "Logo",
-    "realmsXAnilist": "Realms x AniList"
+    "realmsXAnilist": "Realms x AniList",
+    "loggedIn": "Angemeldet als {name}"
   },
   "404": {
     "title": "Hast du dich verlaufen?",
