@@ -1,0 +1,97 @@
+name: Sync Translation Keys
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      # specific path to trigger only when translations change
+      - '**/en.json' 
+  workflow_dispatch: # Allows manual triggering from GitHub UI
+
+jobs:
+  sync-keys:
+    runs-on: ubuntu-latest
+    permissions:
+      # Give permission to commit changes back to the repo
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run Sync Script
+        run: |
+          python3 -c "
+          import json
+          import os
+          import glob
+
+          # --- CONFIGURATION ---
+          TRANSLATIONS_DIR = '.' 
+          SOURCE_FILE = 'en.json'
+          # ---------------------
+
+          def recursive_fill(source, target):
+              has_changes = False
+              for key, value in source.items():
+                  if key not in target:
+                      # Key is missing, add it from source
+                      target[key] = value
+                      has_changes = True
+                  elif isinstance(value, dict) and isinstance(target.get(key), dict):
+                      # Both are objects, recurse deeper
+                      if recursive_fill(value, target[key]):
+                          has_changes = True
+              return has_changes
+
+          # Construct full path to source
+          source_path = os.path.join(TRANSLATIONS_DIR, SOURCE_FILE)
+
+          if not os.path.exists(source_path):
+              print(f'Error: Source file {source_path} not found.')
+              exit(1)
+
+          with open(source_path, 'r', encoding='utf-8') as f:
+              source_data = json.load(f)
+
+          # Find all other JSON files in the directory
+          search_pattern = os.path.join(TRANSLATIONS_DIR, '*.json')
+          
+          for file_path in glob.glob(search_pattern):
+              filename = os.path.basename(file_path)
+              
+              # Skip the source file itself
+              if filename == SOURCE_FILE:
+                  continue
+
+              print(f'Checking {filename}...')
+              
+              try:
+                  with open(file_path, 'r', encoding='utf-8') as f:
+                      target_data = json.load(f)
+              except json.JSONDecodeError:
+                  print(f'Warning: Could not parse {filename}. Skipping.')
+                  continue
+
+              # Perform the sync
+              if recursive_fill(source_data, target_data):
+                  print(f'  - Found missing keys in {filename}. Updating...')
+                  with open(file_path, 'w', encoding='utf-8') as f:
+                      # ensure_ascii=False ensures accents/emojis aren't converted to \uXXXX
+                      json.dump(target_data, f, indent=2, ensure_ascii=False)
+              else:
+                  print(f'  - {filename} is up to date.')
+          "
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: sync translation keys from en.json"
+          file_pattern: "*.json"
