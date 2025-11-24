@@ -162,7 +162,9 @@
     "reset": "Restablecer",
     "dub": "Doblaje",
     "subtitlesComingSoon": "Configuración de subtítulos próximamente...",
-    "goToSection": "Ir a la sección {section}"
+    "goToSection": "Ir a la sección {section}",
+    "lowPerformanceMode": "Low Performance Mode",
+    "lowPerformanceModeDescription": "Disables animations throughout the app for a smoother experience on older devices."
   },
   "LoginPage": {
     "title": "Inicia sesión en tu cuenta",

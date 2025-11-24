@@ -162,7 +162,9 @@
     "reset": "リセット",
     "dub": "吹き替え",
     "subtitlesComingSoon": "字幕設定は近日公開予定...",
-    "goToSection": "{section} セクションへ移動"
+    "goToSection": "{section} セクションへ移動",
+    "lowPerformanceMode": "Low Performance Mode",
+    "lowPerformanceModeDescription": "Disables animations throughout the app for a smoother experience on older devices."
   },
   "LoginPage": {
     "title": "アカウントにログイン",
