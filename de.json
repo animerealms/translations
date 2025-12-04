@@ -164,7 +164,9 @@
     "reset": "Zurücksetzen",
     "dub": "Dub",
     "subtitlesComingSoon": "Untertitel-Einstellungen folgen bald...",
-    "goToSection": "Gehe zu Abschnitt {section}"
+    "goToSection": "Gehe zu Abschnitt {section}",
+    "prioritiseLastUsedSource": "Prioritise Last Source",
+    "prioritiseLastUsedSourceDescription": "Automatically prioritize the source that successfully provided content for the previous episode. This will help to ensure continuity when watching series."
   },
   "LoginPage": {
     "title": "In dein Konto einloggen",
@@ -331,6 +333,7 @@
     "timeLeft": "{time} übrig | Ende um {finishTime}",
     "goodSkipTime": "Guter Skip-Zeitpunkt",
     "badSkipTime": "Schlechter Skip-Zeitpunkt",
-    "realmsLogo": "Realms Logo"
+    "realmsLogo": "Realms Logo",
+    "autoNext": "Auto play next episode"
   }
 }

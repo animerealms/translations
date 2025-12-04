@@ -164,7 +164,9 @@
     "reset": "Reset",
     "dub": "Dub",
     "subtitlesComingSoon": "Subs options loading soon...",
-    "goToSection": "Warp to {section}"
+    "goToSection": "Warp to {section}",
+    "prioritiseLastUsedSource": "Prioritise Last Source",
+    "prioritiseLastUsedSourceDescription": "Automatically prioritize the source that successfully provided content for the previous episode. This will help to ensure continuity when watching series."
   },
   "LoginPage": {
     "title": "Identify Yourself",
@@ -331,6 +333,7 @@
     "timeLeft": "{time} left | Done at {finishTime}",
     "goodSkipTime": "Nice skip!",
     "badSkipTime": "Bad skip spot >_<",
-    "realmsLogo": "Realms Mark"
+    "realmsLogo": "Realms Mark",
+    "autoNext": "Auto play next episode"
   }
 }

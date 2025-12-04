@@ -164,7 +164,9 @@
     "subtitlesComingSoon": "सबटाइटल सेटिंग्स जल्द आ रही हैं...",
     "goToSection": "{section} सेक्शन पर जाएं",
     "lowPerformanceMode": "Low Performance Mode",
-    "lowPerformanceModeDescription": "Disables animations throughout the app for a smoother experience on older devices."
+    "lowPerformanceModeDescription": "Disables animations throughout the app for a smoother experience on older devices.",
+    "prioritiseLastUsedSource": "Prioritise Last Source",
+    "prioritiseLastUsedSourceDescription": "Automatically prioritize the source that successfully provided content for the previous episode. This will help to ensure continuity when watching series."
   },
   "LoginPage": {
     "title": "अपने अकाउंट में लॉगिन करें",
@@ -331,6 +333,7 @@
     "timeLeft": "{time} बचा है | {finishTime} पर खत्म होगा",
     "goodSkipTime": "अच्छा स्किप टाइम",
     "badSkipTime": "खराब स्किप टाइम",
-    "realmsLogo": "Realms लोगो"
+    "realmsLogo": "Realms लोगो",
+    "autoNext": "Auto play next episode"
   }
 }
