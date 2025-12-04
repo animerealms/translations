@@ -270,7 +270,8 @@
     "volumeDown": "Softer...",
     "nextEpisode": "Next Ep",
     "screenshot": "Snap a Pic",
-    "skip85s": "Op Skip (85s)"
+    "skip85s": "Op Skip (85s)",
+    "toggleComments": "Toggle Comments"
   },
   "Watch": {
     "findingStream": "Summoning Streams",

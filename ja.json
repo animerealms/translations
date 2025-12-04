@@ -270,7 +270,8 @@
     "volumeDown": "音量を下げる",
     "nextEpisode": "次のエピソード",
     "screenshot": "スクリーンショット",
-    "skip85s": "85秒スキップ"
+    "skip85s": "85秒スキップ",
+    "toggleComments": "Toggle Comments"
   },
   "Watch": {
     "findingStream": "ストリームを検索中",

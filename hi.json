@@ -270,7 +270,8 @@
     "volumeDown": "वॉल्यूम कम करें",
     "nextEpisode": "अगला एपिसोड",
     "screenshot": "स्क्रीनशॉट लें",
-    "skip85s": "85s स्किप करें"
+    "skip85s": "85s स्किप करें",
+    "toggleComments": "Toggle Comments"
   },
   "Watch": {
     "findingStream": "Streams खोजे जा रहे हैं",

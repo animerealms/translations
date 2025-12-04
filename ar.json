@@ -270,7 +270,8 @@
     "volumeDown": "خفض الصوت",
     "nextEpisode": "الحلقة التالية",
     "screenshot": "التقاط لقطة شاشة",
-    "skip85s": "تخطي 85 ثانية"
+    "skip85s": "تخطي 85 ثانية",
+    "toggleComments": "Toggle Comments"
   },
   "Watch": {
     "findingStream": "البحث عن البث",

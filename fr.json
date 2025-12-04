@@ -270,7 +270,8 @@
     "volumeDown": "Baisser le son",
     "nextEpisode": "Épisode suivant",
     "screenshot": "Prendre une capture",
-    "skip85s": "Sauter 85s"
+    "skip85s": "Sauter 85s",
+    "toggleComments": "Toggle Comments"
   },
   "Watch": {
     "findingStream": "Recherche de flux",

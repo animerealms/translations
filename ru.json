@@ -270,7 +270,8 @@
     "volumeDown": "Тише",
     "nextEpisode": "След. эпизод",
     "screenshot": "Скриншот",
-    "skip85s": "Пропустить 85с"
+    "skip85s": "Пропустить 85с",
+    "toggleComments": "Toggle Comments"
   },
   "Watch": {
     "findingStream": "Ищем стримы",
