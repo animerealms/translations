@@ -164,7 +164,9 @@
     "reset": "إعادة تعيين",
     "dub": "دبلجة",
     "subtitlesComingSoon": "إعدادات الترجمة قريباً...",
-    "goToSection": "اذهب إلى قسم {section}"
+    "goToSection": "اذهب إلى قسم {section}",
+    "prioritiseLastUsedSource": "Prioritise Last Source",
+    "prioritiseLastUsedSourceDescription": "Automatically prioritize the source that successfully provided content for the previous episode. This will help to ensure continuity when watching series."
   },
   "LoginPage": {
     "title": "تسجيل الدخول إلى حسابك",
@@ -331,6 +333,7 @@
     "timeLeft": "{time} متبقي | الانتهاء في {finishTime}",
     "goodSkipTime": "وقت تخطي جيد",
     "badSkipTime": "وقت تخطي سيء",
-    "realmsLogo": "شعار Realms"
+    "realmsLogo": "شعار Realms",
+    "autoNext": "Auto play next episode"
   }
 }

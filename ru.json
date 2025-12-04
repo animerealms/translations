@@ -164,7 +164,9 @@
     "subtitlesComingSoon": "Настройки субтитров скоро будут...",
     "goToSection": "Перейти к разделу {section}",
     "lowPerformanceMode": "Low Performance Mode",
-    "lowPerformanceModeDescription": "Disables animations throughout the app for a smoother experience on older devices."
+    "lowPerformanceModeDescription": "Disables animations throughout the app for a smoother experience on older devices.",
+    "prioritiseLastUsedSource": "Prioritise Last Source",
+    "prioritiseLastUsedSourceDescription": "Automatically prioritize the source that successfully provided content for the previous episode. This will help to ensure continuity when watching series."
   },
   "LoginPage": {
     "title": "Войди в аккаунт",
@@ -331,6 +333,7 @@
     "timeLeft": "{time} осталось | Финиш в {finishTime}",
     "goodSkipTime": "Чёткий тайминг",
     "badSkipTime": "Кривой тайминг",
-    "realmsLogo": "Realms Logo"
+    "realmsLogo": "Realms Logo",
+    "autoNext": "Auto play next episode"
   }
 }

@@ -164,7 +164,9 @@
     "subtitlesComingSoon": "Configuración de subtítulos próximamente...",
     "goToSection": "Ir a la sección {section}",
     "lowPerformanceMode": "Low Performance Mode",
-    "lowPerformanceModeDescription": "Disables animations throughout the app for a smoother experience on older devices."
+    "lowPerformanceModeDescription": "Disables animations throughout the app for a smoother experience on older devices.",
+    "prioritiseLastUsedSource": "Prioritise Last Source",
+    "prioritiseLastUsedSourceDescription": "Automatically prioritize the source that successfully provided content for the previous episode. This will help to ensure continuity when watching series."
   },
   "LoginPage": {
     "title": "Inicia sesión en tu cuenta",
@@ -331,6 +333,7 @@
     "timeLeft": "{time} restante | Termina a las {finishTime}",
     "goodSkipTime": "Buen tiempo de salto",
     "badSkipTime": "Mal tiempo de salto",
-    "realmsLogo": "Logo de Realms"
+    "realmsLogo": "Logo de Realms",
+    "autoNext": "Auto play next episode"
   }
 }
