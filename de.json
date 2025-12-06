@@ -335,6 +335,7 @@
     "goodSkipTime": "Guter Skip-Zeitpunkt",
     "badSkipTime": "Schlechter Skip-Zeitpunkt",
     "realmsLogo": "Realms Logo",
-    "autoNext": "Auto play next episode"
+    "autoNext": "Auto play next episode",
+    "on": "On"
   }
 }

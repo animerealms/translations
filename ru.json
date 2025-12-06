@@ -335,6 +335,7 @@
     "goodSkipTime": "Чёткий тайминг",
     "badSkipTime": "Кривой тайминг",
     "realmsLogo": "Realms Logo",
-    "autoNext": "Auto play next episode"
+    "autoNext": "Auto play next episode",
+    "on": "On"
   }
 }
