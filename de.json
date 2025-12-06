@@ -166,7 +166,22 @@
     "subtitlesComingSoon": "Untertitel-Einstellungen folgen bald...",
     "goToSection": "Gehe zu Abschnitt {section}",
     "prioritiseLastUsedSource": "Prioritise Last Source",
-    "prioritiseLastUsedSourceDescription": "Automatically prioritize the source that successfully provided content for the previous episode. This will help to ensure continuity when watching series."
+    "prioritiseLastUsedSourceDescription": "Automatically prioritize the source that successfully provided content for the previous episode. This will help to ensure continuity when watching series.",
+    "background_opacity": "Background Opacity",
+    "background_opacity_description": "Adjust the opacity of the subtitle background.",
+    "background_blur": "Background Blur",
+    "background_blur_description": "Enable or disable blur effect on the subtitle background.",
+    "text_size": "Text Size",
+    "text_size_description": "Adjust the font size of the subtitles.",
+    "text_style": "Text Style",
+    "text_style_description": "Choose the style of the subtitle text.",
+    "bold_text": "Bold Text",
+    "bold_text_description": "Make the subtitle text bold.",
+    "color": "Color",
+    "color_description": "Choose the color of the subtitle text.",
+    "vertical_position": "Vertical Position",
+    "vertical_position_description": "Adjust the vertical position of the subtitles.",
+    "reset_subtitle_settings": "Reset Subtitle Settings"
   },
   "LoginPage": {
     "title": "In dein Konto einloggen",
