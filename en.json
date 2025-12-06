@@ -301,6 +301,7 @@
     "provider": "Provider",
     "subtitles": "Subtitles",
     "off": "Off",
+    "on": "On",
     "audio": "Audio",
     "dub": "Dub",
     "sub": "Sub",
