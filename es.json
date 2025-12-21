@@ -351,6 +351,9 @@
     "badSkipTime": "Mal tiempo de salto",
     "realmsLogo": "Logo de Realms",
     "autoNext": "Auto play next episode",
-    "on": "On"
+    "on": "On",
+    "errorSwitchingSource": "Error occurred. Switching to {quality} source...",
+    "errorSwitchingProvider": "Error occurred. Switching to {provider} provider...",
+    "playbackError": "Playback error occurred."
   }
 }
