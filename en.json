@@ -351,6 +351,9 @@
     "timeLeft": "{time} left | Finish at {finishTime}",
     "goodSkipTime": "Good skip time",
     "badSkipTime": "Bad skip time",
-    "realmsLogo": "Realms Logo"
+    "realmsLogo": "Realms Logo",
+    "errorSwitchingSource": "Error occurred. Switching to {quality} source...",
+    "errorSwitchingProvider": "Error occurred. Switching to {provider} provider...",
+    "playbackError": "Playback error occurred."
   }
 }
