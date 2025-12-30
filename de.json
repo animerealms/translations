@@ -181,7 +181,11 @@
     "color_description": "Choose the color of the subtitle text.",
     "vertical_position": "Vertical Position",
     "vertical_position_description": "Adjust the vertical position of the subtitles.",
-    "reset_subtitle_settings": "Reset Subtitle Settings"
+    "reset_subtitle_settings": "Reset Subtitle Settings",
+    "delete_account_warning_title": "Are you absolutely sure?",
+    "delete_account_warning_description": "This action cannot be undone. This will permanently delete your account and remove your data from our servers.",
+    "delete_account_final_warning_title": "ARE YOU SURE?",
+    "delete_account_final_warning_description": "We are serious. All your progress will be lost forever."
   },
   "LoginPage": {
     "title": "In dein Konto einloggen",
