@@ -359,5 +359,19 @@
     "errorSwitchingSource": "त्रुटि हुई। {quality} स्रोत पर स्विच किया जा रहा है...",
     "errorSwitchingProvider": "त्रुटि हुई। {provider} प्रदाता पर स्विच किया जा रहा है...",
     "playbackError": "प्लेबैक त्रुटि हुई।"
+  },
+  "UserProfile": {
+    "noBanner": "कोई बैनर नहीं",
+    "overview": "अवलोकन (Overview)",
+    "episodesWatched": "देखे गए एपिसोड्स",
+    "timeWasted": "बिताया गया समय",
+    "animeCompleted": "पूरे किए गए एनीमे",
+    "meanScore": "औसत स्कोर",
+    "genreDistribution": "शैलियों का वितरण",
+    "genreDistributionDescription": "एनीमे संख्या के अनुसार शीर्ष शैलियाँ",
+    "topStudios": "शीर्ष स्टूडियो",
+    "favoriteAnime": "पसंदीदा एनीमे",
+    "favoriteCharacters": "पसंदीदा पात्र",
+    "watchLists": "वॉच लिस्ट"
   }
 }

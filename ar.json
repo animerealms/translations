@@ -359,5 +359,19 @@
     "errorSwitchingSource": "حدث خطأ. جاري التبديل إلى مصدر {quality}...",
     "errorSwitchingProvider": "حدث خطأ. جاري التبديل إلى مزود {provider}...",
     "playbackError": "حدث خطأ في التشغيل."
+  },
+  "UserProfile": {
+    "noBanner": "لا يوجد شعار",
+    "overview": "نظرة عامة",
+    "episodesWatched": "الحلقات المشاهدة",
+    "timeWasted": "الوقت المقضي",
+    "animeCompleted": "الأنمي المكتمل",
+    "meanScore": "متوسط الدرجات",
+    "genreDistribution": "توزيع الأنواع",
+    "genreDistributionDescription": "أعلى الأنواع حسب عدد الأنمي",
+    "topStudios": "أفضل الاستوديوهات",
+    "favoriteAnime": "الأنمي المفضل",
+    "favoriteCharacters": "الشخصيات المفضلة",
+    "watchLists": "قوائم المشاهدة"
   }
 }

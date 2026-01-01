@@ -359,5 +359,19 @@
     "errorSwitchingSource": "Error occurred. Switching to {quality} source...",
     "errorSwitchingProvider": "Error occurred. Switching to {provider} provider...",
     "playbackError": "Playback error occurred."
+  },
+  "UserProfile": {
+    "noBanner": "No Banner",
+    "overview": "Overview",
+    "episodesWatched": "Episodes Watched",
+    "timeWasted": "Time Wasted",
+    "animeCompleted": "Anime Completed",
+    "meanScore": "Mean Score",
+    "genreDistribution": "Genre Distribution",
+    "genreDistributionDescription": "Top genres by anime count",
+    "topStudios": "Top Studios",
+    "favoriteAnime": "Favorite Anime",
+    "favoriteCharacters": "Favorite Characters",
+    "watchLists": "Watch Lists"
   }
 }

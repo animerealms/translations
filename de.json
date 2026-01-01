@@ -359,5 +359,19 @@
     "errorSwitchingSource": "Fehler aufgetreten. Wechsle zu {quality} Quelle...",
     "errorSwitchingProvider": "Fehler aufgetreten. Wechsle zu {provider} Anbieter...",
     "playbackError": "Wiedergabefehler aufgetreten."
+  },
+  "UserProfile": {
+    "noBanner": "Kein Banner",
+    "overview": "Übersicht",
+    "episodesWatched": "Gesehene Episoden",
+    "timeWasted": "Verschwendete Zeit",
+    "animeCompleted": "Abgeschlossene Anime",
+    "meanScore": "Durchschnittsbewertung",
+    "genreDistribution": "Genre-Verteilung",
+    "genreDistributionDescription": "Top-Genres nach Anime-Anzahl",
+    "topStudios": "Top-Studios",
+    "favoriteAnime": "Lieblingsanime",
+    "favoriteCharacters": "Lieblingscharaktere",
+    "watchLists": "Watchlists"
   }
 }

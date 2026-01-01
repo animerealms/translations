@@ -359,5 +359,19 @@
     "errorSwitchingSource": "Ocurrió un error. Cambiando a fuente {quality}...",
     "errorSwitchingProvider": "Ocurrió un error. Cambiando a proveedor {provider}...",
     "playbackError": "Ocurrió un error de reproducción."
+  },
+  "UserProfile": {
+    "noBanner": "Sin Banner",
+    "overview": "Resumen",
+    "episodesWatched": "Episodios Vistos",
+    "timeWasted": "Tiempo Perdido",
+    "animeCompleted": "Animes Completados",
+    "meanScore": "Puntuación Media",
+    "genreDistribution": "Distribución de Géneros",
+    "genreDistributionDescription": "Géneros principales por cantidad de anime",
+    "topStudios": "Mejores Estudios",
+    "favoriteAnime": "Animes Favoritos",
+    "favoriteCharacters": "Personajes Favoritos",
+    "watchLists": "Listas de Seguimiento"
   }
 }

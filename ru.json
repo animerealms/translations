@@ -359,5 +359,19 @@
     "errorSwitchingSource": "Произошла ошибка. Переключение на источник {quality}...",
     "errorSwitchingProvider": "Произошла ошибка. Переключение на провайдера {provider}...",
     "playbackError": "Произошла ошибка воспроизведения."
+  },
+  "UserProfile": {
+    "noBanner": "Нет баннера",
+    "overview": "Обзор",
+    "episodesWatched": "Просмотрено эпизодов",
+    "timeWasted": "Потрачено времени",
+    "animeCompleted": "Завершено аниме",
+    "meanScore": "Средняя оценка",
+    "genreDistribution": "Распределение жанров",
+    "genreDistributionDescription": "Топ жанров по количеству аниме",
+    "topStudios": "Топ студий",
+    "favoriteAnime": "Любимое аниме",
+    "favoriteCharacters": "Любимые персонажи",
+    "watchLists": "Списки просмотра"
   }
 }

@@ -359,5 +359,19 @@
     "errorSwitchingSource": "Erreur survenue. Passage à la source {quality}...",
     "errorSwitchingProvider": "Erreur survenue. Passage au fournisseur {provider}...",
     "playbackError": "Erreur de lecture survenue."
+  },
+  "UserProfile": {
+    "noBanner": "Pas de bannière",
+    "overview": "Vue d'ensemble",
+    "episodesWatched": "Épisodes vus",
+    "timeWasted": "Temps perdu",
+    "animeCompleted": "Animes terminés",
+    "meanScore": "Score moyen",
+    "genreDistribution": "Répartition des genres",
+    "genreDistributionDescription": "Top genres par nombre d'animes",
+    "topStudios": "Top Studios",
+    "favoriteAnime": "Animes favoris",
+    "favoriteCharacters": "Personnages favoris",
+    "watchLists": "Listes de lecture"
   }
 }

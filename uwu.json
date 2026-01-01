@@ -359,5 +359,19 @@
     "errorSwitchingSource": "Oopsie! Trying {quality} source instead...",
     "errorSwitchingProvider": "Sumimasen! Trying {provider} provider...",
     "playbackError": "Video machine broke (T_T)"
+  },
+  "UserProfile": {
+    "noBanner": "No Banner... (sad)",
+    "overview": "Stalker Stats",
+    "episodesWatched": "Eps Binged",
+    "timeWasted": "Life Given to Anime",
+    "animeCompleted": "Finished Sagas",
+    "meanScore": "Vibe Check Score",
+    "genreDistribution": "Vibe Check",
+    "genreDistributionDescription": "What you mostly watch (obsessed much?)",
+    "topStudios": "God-Tier Studios",
+    "favoriteAnime": "Bestest Anime",
+    "favoriteCharacters": "Husbandos & Waifus",
+    "watchLists": "The Stash"
   }
 }

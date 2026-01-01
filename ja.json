@@ -359,5 +359,19 @@
     "errorSwitchingSource": "エラーが発生しました。{quality}ソースに切り替えます...",
     "errorSwitchingProvider": "エラーが発生しました。{provider}プロバイダーに切り替えます...",
     "playbackError": "再生エラーが発生しました。"
+  },
+  "UserProfile": {
+    "noBanner": "バナーなし",
+    "overview": "概要",
+    "episodesWatched": "視聴したエピソード",
+    "timeWasted": "費やした時間",
+    "animeCompleted": "完了したアニメ",
+    "meanScore": "平均スコア",
+    "genreDistribution": "ジャンル分布",
+    "genreDistributionDescription": "アニメ数によるトップジャンル",
+    "topStudios": "トップスタジオ",
+    "favoriteAnime": "お気に入りのアニメ",
+    "favoriteCharacters": "お気に入りのキャラクター",
+    "watchLists": "ウォッチリスト"
   }
 }
