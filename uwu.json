@@ -185,7 +185,7 @@
     "delete_account_warning_title": "Wait, really?? (O_O)",
     "delete_account_warning_description": "There's no going back, senpai! Your account will go poof! Forever!",
     "delete_account_final_warning_title": "REALLY REALLY??",
-    "delete_account_final_warning_description": "We're not kidding! Your progress goes bye-bye!",
+    "delete_account_final_warning_description": "We're not kidding! Your progress goes bye-bye!"
   },
   "LoginPage": {
     "title": "Identify Yourself",
