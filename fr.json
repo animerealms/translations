@@ -27,7 +27,13 @@
     "viva": "Vive Anime Realms !",
     "morning": "Qu'est-ce qu'on regarde ce matin ?",
     "afternoon": "Qu'est-ce qu'on regarde cet aprèm ?",
-    "tonight": "Qu'est-ce qu'on regarde ce soir ?"
+    "tonight": "Qu'est-ce qu'on regarde ce soir ?",
+    "todays_schedule": "Programme d'aujourd'hui",
+    "view_all": "Tout voir",
+    "schedule_title": "Programme hebdomadaire",
+    "schedule_subtitle": "Suivez les horaires de diffusion de vos animes préférés",
+    "no_anime_airing": "Aucun anime diffusé ce jour-là",
+    "airing_next": "Prochaine diffusion"
   },
   "Shared": {
     "confirm": "Confirmer",

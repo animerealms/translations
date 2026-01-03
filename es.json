@@ -27,7 +27,13 @@
     "viva": "¡Viva Anime Realms!",
     "morning": "¿Qué te gustaría ver esta mañana?",
     "afternoon": "¿Qué te gustaría ver esta tarde?",
-    "tonight": "¿Qué te gustaría ver esta noche?"
+    "tonight": "¿Qué te gustaría ver esta noche?",
+    "todays_schedule": "Horario de hoy",
+    "view_all": "Ver todo",
+    "schedule_title": "Horario semanal",
+    "schedule_subtitle": "Sigue los horarios de emisión de tus animes favoritos",
+    "no_anime_airing": "No hay anime emitiéndose este día",
+    "airing_next": "Siguiente emisión"
   },
   "Shared": {
     "confirm": "Confirmar",

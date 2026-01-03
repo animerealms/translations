@@ -27,7 +27,13 @@
     "viva": "Viva la Anime Realms!",
     "morning": "Ohayou! What's for breakfast TV?",
     "afternoon": "Konnichiwa! Time for a break?",
-    "tonight": "Konbanwa! Late night binge? (¬‿¬)"
+    "tonight": "Konbanwa! Late night binge? (¬‿¬)",
+    "todays_schedule": "Today's Scheduwu",
+    "view_all": "View All (o^▽^o)",
+    "schedule_title": "Weekwy Scheduwu",
+    "schedule_subtitle": "Keep twack of youw favowite anime aiwing times",
+    "no_anime_airing": "No anime aiwing on this day (sad face)",
+    "airing_next": "Aiwing Next uwu"
   },
   "Shared": {
     "confirm": "Hai! (Confirm)",

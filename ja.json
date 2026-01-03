@@ -27,7 +27,13 @@
     "viva": "ビバ！Anime Realms！",
     "morning": "今朝は何を観ますか？",
     "afternoon": "午後は何を観ますか？",
-    "tonight": "今夜は何を観ますか？"
+    "tonight": "今夜は何を観ますか？",
+    "todays_schedule": "今日のスケジュール",
+    "view_all": "すべて表示",
+    "schedule_title": "週間スケジュール",
+    "schedule_subtitle": "お気に入りのアニメの放送時間をチェック",
+    "no_anime_airing": "この日に放送されるアニメはありません",
+    "airing_next": "次回の放送"
   },
   "Shared": {
     "confirm": "確認",
