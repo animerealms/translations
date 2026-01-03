@@ -33,7 +33,8 @@
     "schedule_title": "Wöchentlicher Zeitplan",
     "schedule_subtitle": "Behalte die Sendezeiten deiner Lieblingsanimes im Auge",
     "no_anime_airing": "Kein Anime wird an diesem Tag ausgestrahlt",
-    "airing_next": "Als Nächstes"
+    "airing_next": "Als Nächstes",
+    "scroll_to_airing": "Zur nächsten Ausstrahlung"
   },
   "Shared": {
     "confirm": "Bestätigen",

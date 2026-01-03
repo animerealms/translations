@@ -33,7 +33,8 @@
     "schedule_title": "الجدول الأسبوعي",
     "schedule_subtitle": "تتبع أوقات عرض الأنمي المفضل لديك",
     "no_anime_airing": "لا يوجد أنمي يعرض في هذا اليوم",
-    "airing_next": "يعرض تالياً"
+    "airing_next": "يعرض تالياً",
+    "scroll_to_airing": "التمرير إلى العرض التالي"
   },
   "Shared": {
     "confirm": "تأكيد",

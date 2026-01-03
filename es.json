@@ -33,7 +33,8 @@
     "schedule_title": "Horario semanal",
     "schedule_subtitle": "Sigue los horarios de emisión de tus animes favoritos",
     "no_anime_airing": "No hay anime emitiéndose este día",
-    "airing_next": "Siguiente emisión"
+    "airing_next": "Siguiente emisión",
+    "scroll_to_airing": "Ir a la siguiente emisión"
   },
   "Shared": {
     "confirm": "Confirmar",

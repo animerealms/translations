@@ -33,7 +33,8 @@
     "schedule_title": "週間スケジュール",
     "schedule_subtitle": "お気に入りのアニメの放送時間をチェック",
     "no_anime_airing": "この日に放送されるアニメはありません",
-    "airing_next": "次回の放送"
+    "airing_next": "次回の放送",
+    "scroll_to_airing": "次回の放送へスクロール"
   },
   "Shared": {
     "confirm": "確認",

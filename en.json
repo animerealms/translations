@@ -33,7 +33,8 @@
     "schedule_title": "Weekly Schedule",
     "schedule_subtitle": "Keep track of your favorite anime airing times",
     "no_anime_airing": "No anime airing on this day",
-    "airing_next": "Airing Next"
+    "airing_next": "Airing Next",
+    "scroll_to_airing": "Scroll To Airing"
   },
   "Shared": {
     "confirm": "Confirm",
