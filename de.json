@@ -365,7 +365,10 @@
     "on": "An",
     "errorSwitchingSource": "Fehler aufgetreten. Wechsle zu {quality} Quelle...",
     "errorSwitchingProvider": "Fehler aufgetreten. Wechsle zu {provider} Anbieter...",
-    "playbackError": "Wiedergabefehler aufgetreten."
+    "playbackError": "Wiedergabefehler aufgetreten.",
+    "idle_watching": "DU SCHAUST",
+    "idle_episode": "Folge {number}",
+    "idle_resume": "Klicken Sie irgendwo, um fortzufahren"
   },
   "UserProfile": {
     "noBanner": "Kein Banner",

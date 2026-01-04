@@ -365,7 +365,10 @@
     "on": "Encendido",
     "errorSwitchingSource": "Ocurrió un error. Cambiando a fuente {quality}...",
     "errorSwitchingProvider": "Ocurrió un error. Cambiando a proveedor {provider}...",
-    "playbackError": "Ocurrió un error de reproducción."
+    "playbackError": "Ocurrió un error de reproducción.",
+    "idle_watching": "ESTÁS VIENDO",
+    "idle_episode": "Episodio {number}",
+    "idle_resume": "Haz clic en cualquier lugar para reanudar"
   },
   "UserProfile": {
     "noBanner": "Sin Banner",

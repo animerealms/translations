@@ -365,7 +365,10 @@
     "on": "تشغيل",
     "errorSwitchingSource": "حدث خطأ. جاري التبديل إلى مصدر {quality}...",
     "errorSwitchingProvider": "حدث خطأ. جاري التبديل إلى مزود {provider}...",
-    "playbackError": "حدث خطأ في التشغيل."
+    "playbackError": "حدث خطأ في التشغيل.",
+    "idle_watching": "أنت تشاهد",
+    "idle_episode": "الحلقة {number}",
+    "idle_resume": "انقر في أي مكان للمتابعة"
   },
   "UserProfile": {
     "noBanner": "لا يوجد شعار",

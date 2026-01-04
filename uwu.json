@@ -365,7 +365,10 @@
     "on": "On!",
     "errorSwitchingSource": "Oopsie! Trying {quality} source instead...",
     "errorSwitchingProvider": "Sumimasen! Trying {provider} provider...",
-    "playbackError": "Video machine broke (T_T)"
+    "playbackError": "Video machine broke (T_T)",
+    "idle_watching": "YUWU AWE WATCHING",
+    "idle_episode": "Episowode {number}",
+    "idle_resume": "Cwick anywhewe to wesume (* ^ ω ^)"
   },
   "UserProfile": {
     "noBanner": "No Banner... (sad)",

@@ -365,7 +365,10 @@
     "on": "オン",
     "errorSwitchingSource": "エラーが発生しました。{quality}ソースに切り替えます...",
     "errorSwitchingProvider": "エラーが発生しました。{provider}プロバイダーに切り替えます...",
-    "playbackError": "再生エラーが発生しました。"
+    "playbackError": "再生エラーが発生しました。",
+    "idle_watching": "視聴中",
+    "idle_episode": "エピソード {number}",
+    "idle_resume": "再開するにはどこかをクリックしてください"
   },
   "UserProfile": {
     "noBanner": "バナーなし",

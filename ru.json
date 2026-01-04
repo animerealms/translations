@@ -365,7 +365,10 @@
     "on": "Вкл",
     "errorSwitchingSource": "Произошла ошибка. Переключение на источник {quality}...",
     "errorSwitchingProvider": "Произошла ошибка. Переключение на провайдера {provider}...",
-    "playbackError": "Произошла ошибка воспроизведения."
+    "playbackError": "Произошла ошибка воспроизведения.",
+    "idle_watching": "ВЫ СМОТРИТЕ",
+    "idle_episode": "Эпизод {number}",
+    "idle_resume": "Нажмите в любом месте, чтобы продолжить"
   },
   "UserProfile": {
     "noBanner": "Нет баннера",

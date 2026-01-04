@@ -365,7 +365,10 @@
     "realmsLogo": "Realms Logo",
     "errorSwitchingSource": "Error occurred. Switching to {quality} source...",
     "errorSwitchingProvider": "Error occurred. Switching to {provider} provider...",
-    "playbackError": "Playback error occurred."
+    "playbackError": "Playback error occurred.",
+    "idle_watching": "YOU'RE WATCHING",
+    "idle_episode": "Episode {number}",
+    "idle_resume": "Click anywhere to resume"
   },
   "UserProfile": {
     "noBanner": "No Banner",

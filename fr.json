@@ -365,7 +365,10 @@
     "on": "Activé",
     "errorSwitchingSource": "Erreur survenue. Passage à la source {quality}...",
     "errorSwitchingProvider": "Erreur survenue. Passage au fournisseur {provider}...",
-    "playbackError": "Erreur de lecture survenue."
+    "playbackError": "Erreur de lecture survenue.",
+    "idle_watching": "VOUS REGARDEZ",
+    "idle_episode": "Épisode {number}",
+    "idle_resume": "Cliquez n'importe où pour reprendre"
   },
   "UserProfile": {
     "noBanner": "Pas de bannière",
