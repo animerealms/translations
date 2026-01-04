@@ -382,13 +382,13 @@
     "watchLists": "वॉच लिस्ट"
   },
   "Discover": {
-    "playNow": "Play Now",
-    "moreInfo": "More Info",
-    "becauseYouWatched": "BECAUSE YOU WATCHED",
-    "change": "Change",
-    "trendingNow": "TRENDING NOW",
-    "popularSeason": "POPULAR THIS SEASON",
-    "allTimePopular": "ALL TIME POPULAR",
-    "topRated": "TOP RATED"
+    "playNow": "अभी देखें",
+    "moreInfo": "और जानकारी",
+    "becauseYouWatched": "क्योंकि आपने देखा",
+    "change": "बदलें",
+    "trendingNow": "अभी ट्रेंडिंग में",
+    "popularSeason": "इस सीजन में लोकप्रिय",
+    "allTimePopular": "सर्वकालिक लोकप्रिय",
+    "topRated": "टॉप रेटेड"
   }
 }

@@ -382,13 +382,13 @@
     "watchLists": "Списки просмотра"
   },
   "Discover": {
-    "playNow": "Play Now",
-    "moreInfo": "More Info",
-    "becauseYouWatched": "BECAUSE YOU WATCHED",
-    "change": "Change",
-    "trendingNow": "TRENDING NOW",
-    "popularSeason": "POPULAR THIS SEASON",
-    "allTimePopular": "ALL TIME POPULAR",
-    "topRated": "TOP RATED"
+    "playNow": "Смотреть сейчас",
+    "moreInfo": "Подробнее",
+    "becauseYouWatched": "ПОТОМУ ЧТО ВЫ СМОТРЕЛИ",
+    "change": "Изменить",
+    "trendingNow": "В ТРЕНДЕ СЕЙЧАС",
+    "popularSeason": "ПОПУЛЯРНО В ЭТОМ СЕЗОНЕ",
+    "allTimePopular": "ПОПУЛЯРНОЕ ЗА ВСЕ ВРЕМЯ",
+    "topRated": "САМЫЙ ВЫСОКИЙ РЕЙТИНГ"
   }
 }

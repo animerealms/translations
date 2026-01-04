@@ -382,13 +382,13 @@
     "watchLists": "قوائم المشاهدة"
   },
   "Discover": {
-    "playNow": "Play Now",
-    "moreInfo": "More Info",
-    "becauseYouWatched": "BECAUSE YOU WATCHED",
-    "change": "Change",
-    "trendingNow": "TRENDING NOW",
-    "popularSeason": "POPULAR THIS SEASON",
-    "allTimePopular": "ALL TIME POPULAR",
-    "topRated": "TOP RATED"
+    "playNow": "شاهد الآن",
+    "moreInfo": "المزيد من المعلومات",
+    "becauseYouWatched": "لأنك شاهدت",
+    "change": "تغيير",
+    "trendingNow": "الرائج الآن",
+    "popularSeason": "شائع هذا الموسم",
+    "allTimePopular": "الأكثر شعبية طوال الوقت",
+    "topRated": "الأعلى تقييماً"
   }
 }
