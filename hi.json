@@ -380,5 +380,15 @@
     "favoriteAnime": "पसंदीदा एनीमे",
     "favoriteCharacters": "पसंदीदा पात्र",
     "watchLists": "वॉच लिस्ट"
+  },
+  "Discover": {
+    "playNow": "Play Now",
+    "moreInfo": "More Info",
+    "becauseYouWatched": "BECAUSE YOU WATCHED",
+    "change": "Change",
+    "trendingNow": "TRENDING NOW",
+    "popularSeason": "POPULAR THIS SEASON",
+    "allTimePopular": "ALL TIME POPULAR",
+    "topRated": "TOP RATED"
   }
 }

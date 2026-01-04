@@ -380,5 +380,15 @@
     "favoriteAnime": "الأنمي المفضل",
     "favoriteCharacters": "الشخصيات المفضلة",
     "watchLists": "قوائم المشاهدة"
+  },
+  "Discover": {
+    "playNow": "Play Now",
+    "moreInfo": "More Info",
+    "becauseYouWatched": "BECAUSE YOU WATCHED",
+    "change": "Change",
+    "trendingNow": "TRENDING NOW",
+    "popularSeason": "POPULAR THIS SEASON",
+    "allTimePopular": "ALL TIME POPULAR",
+    "topRated": "TOP RATED"
   }
 }
