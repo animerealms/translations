@@ -380,5 +380,15 @@
     "favoriteAnime": "Animes Favoritos",
     "favoriteCharacters": "Personajes Favoritos",
     "watchLists": "Listas de Seguimiento"
+  },
+  "Discover": {
+    "playNow": "Reproducir Ahora",
+    "moreInfo": "Más Información",
+    "becauseYouWatched": "PORQUE VISTE",
+    "change": "Cambiar",
+    "trendingNow": "TENDENCIAS AHORA",
+    "popularSeason": "POPULAR ESTA TEMPORADA",
+    "allTimePopular": "POPULAR DE TODOS LOS TIEMPOS",
+    "topRated": "MEJOR VALORADOS"
   }
 }

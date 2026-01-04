@@ -380,5 +380,15 @@
     "favoriteAnime": "Bestest Anime",
     "favoriteCharacters": "Husbandos & Waifus",
     "watchLists": "The Stash"
+  },
+  "Discover": {
+    "playNow": "Pway Now!",
+    "moreInfo": "More Deets?",
+    "becauseYouWatched": "CUZ U LIKED",
+    "change": "Change It?",
+    "trendingNow": "TWENDING RIGHT NOW!",
+    "popularSeason": "POPULAR DIS SEASON",
+    "allTimePopular": "LEGENDS ONLY (hubba hubba)",
+    "topRated": "TOP RATED GEMS (Awesome!)"
   }
 }

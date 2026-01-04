@@ -380,5 +380,15 @@
     "favoriteAnime": "お気に入りのアニメ",
     "favoriteCharacters": "お気に入りのキャラクター",
     "watchLists": "ウォッチリスト"
+  },
+  "Discover": {
+    "playNow": "今すぐ再生",
+    "moreInfo": "詳細情報",
+    "becauseYouWatched": "視聴したため",
+    "change": "変更",
+    "trendingNow": "トレンド中",
+    "popularSeason": "今シーズンの人気",
+    "allTimePopular": "歴代人気",
+    "topRated": "最高評価"
   }
 }
