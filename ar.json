@@ -57,7 +57,13 @@
     "planning": "مخطط",
     "rewatching": "يعيد المشاهدة",
     "repeating": "إعادة",
-    "current": "حاليا"
+    "current": "حاليا",
+    "watched": "Watched",
+    "schedule": "Schedule",
+    "trending": "Trending",
+    "popular": "Popular",
+    "top": "Top Anime",
+    "season": "This Season"
   },
   "AnimeDialog": {
     "synopsis": "الملخص",
@@ -196,7 +202,6 @@
     "color_description": "اختر لون نص الترجمة.",
     "vertical_position": "الموضع الرأسي",
     "vertical_position_description": "ضبط الموضع الرأسي للترجمة.",
-
     "delete_account_warning_title": "هل أنت متأكد تمامًا؟",
     "delete_account_warning_description": "هذا الإجراء لا يمكن التراجع عنه. سيؤدي هذا إلى حذف حسابك بشكل دائم وإزالة بياناتك من خوادمنا.",
     "delete_account_final_warning_title": "هل أنت متأكد؟",

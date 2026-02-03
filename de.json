@@ -57,7 +57,13 @@
     "planning": "Geplant",
     "rewatching": "Re-Watching",
     "repeating": "Wiederholen",
-    "current": "Aktuell"
+    "current": "Aktuell",
+    "watched": "Watched",
+    "schedule": "Schedule",
+    "trending": "Trending",
+    "popular": "Popular",
+    "top": "Top Anime",
+    "season": "This Season"
   },
   "AnimeDialog": {
     "synopsis": "ZUSAMMENFASSUNG",
@@ -201,7 +207,6 @@
     "delete_account_warning_description": "Diese Aktion kann nicht rückgängig gemacht werden. Dies wird dein Konto dauerhaft löschen und deine Daten von unseren Servern entfernen.",
     "delete_account_final_warning_title": "BIST DU SICHER?",
     "delete_account_final_warning_description": "Wir meinen es ernst. Dein gesamter Fortschritt wird für immer verloren sein.",
-
     "homepage_section": "Startseite",
     "active_sections": "Aktive Abschnitte",
     "active_sections_desc": "Diese Abschnitte werden auf der Startseite in dieser Reihenfolge angezeigt.",

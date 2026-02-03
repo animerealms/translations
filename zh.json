@@ -57,7 +57,13 @@
     "planning": "想看",
     "rewatching": "重温",
     "repeating": "重看",
-    "current": "当前"
+    "current": "当前",
+    "watched": "Watched",
+    "schedule": "Schedule",
+    "trending": "Trending",
+    "popular": "Popular",
+    "top": "Top Anime",
+    "season": "This Season"
   },
   "AnimeDialog": {
     "synopsis": "简介",

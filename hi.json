@@ -57,7 +57,13 @@
     "planning": "प्लानिंग",
     "rewatching": "फिर से देख रहे हैं",
     "repeating": "दोहरा रहे हैं",
-    "current": "वर्तमान"
+    "current": "वर्तमान",
+    "watched": "Watched",
+    "schedule": "Schedule",
+    "trending": "Trending",
+    "popular": "Popular",
+    "top": "Top Anime",
+    "season": "This Season"
   },
   "AnimeDialog": {
     "synopsis": "सिनोप्सिस",
@@ -201,7 +207,6 @@
     "delete_account_warning_description": "इस कार्रवाई को पूर्ववत नहीं किया जा सकता है। यह आपके खाते को स्थायी रूप से हटा देगा और हमारे सर्वर से आपका डेटा हटा देगा।",
     "delete_account_final_warning_title": "क्या आप निश्चित हैं?",
     "delete_account_final_warning_description": "हम गंभीर हैं। आपकी सारी प्रगति हमेशा के लिए खो जाएगी।",
-
     "homepage_section": "होमपेज",
     "active_sections": "सक्रिय अनुभाग",
     "active_sections_desc": "ये अनुभाग होमपेज पर इस क्रम में प्रदर्शित किए जाएंगे।",

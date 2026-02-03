@@ -57,7 +57,13 @@
     "planning": "À voir",
     "rewatching": "Revisionnage",
     "repeating": "Répétition",
-    "current": "En cours"
+    "current": "En cours",
+    "watched": "Watched",
+    "schedule": "Schedule",
+    "trending": "Trending",
+    "popular": "Popular",
+    "top": "Top Anime",
+    "season": "This Season"
   },
   "AnimeDialog": {
     "synopsis": "SYNOPSIS",
@@ -196,7 +202,6 @@
     "color_description": "Choisissez la couleur du texte des sous-titres.",
     "vertical_position": "Position verticale",
     "vertical_position_description": "Ajustez la position verticale des sous-titres.",
-
     "delete_account_warning_title": "Êtes-vous absolument sûr ?",
     "delete_account_warning_description": "Cette action est irréversible. Cela supprimera définitivement votre compte et effacera vos données de nos serveurs.",
     "delete_account_final_warning_title": "ÊTES-VOUS SÛR ?",

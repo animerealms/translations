@@ -57,7 +57,13 @@
     "planning": "В планах",
     "rewatching": "Пересматриваю",
     "repeating": "Повтор",
-    "current": "Текущее"
+    "current": "Текущее",
+    "watched": "Watched",
+    "schedule": "Schedule",
+    "trending": "Trending",
+    "popular": "Popular",
+    "top": "Top Anime",
+    "season": "This Season"
   },
   "AnimeDialog": {
     "synopsis": "СЮЖЕТ",
@@ -196,7 +202,6 @@
     "color_description": "Выберите цвет текста субтитров.",
     "vertical_position": "Вертикальное положение",
     "vertical_position_description": "Настройте вертикальное положение субтитров.",
-
     "delete_account_warning_title": "Вы абсолютно уверены?",
     "delete_account_warning_description": "Это действие необратимо. Это навсегда удалит ваш аккаунт и сотрет ваши данные с наших серверов.",
     "delete_account_final_warning_title": "ВЫ УВЕРЕНЫ?",

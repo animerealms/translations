@@ -57,7 +57,13 @@
     "planning": "視聴予定",
     "rewatching": "再視聴中",
     "repeating": "リピート中",
-    "current": "現在"
+    "current": "現在",
+    "watched": "Watched",
+    "schedule": "Schedule",
+    "trending": "Trending",
+    "popular": "Popular",
+    "top": "Top Anime",
+    "season": "This Season"
   },
   "AnimeDialog": {
     "synopsis": "あらすじ",
@@ -196,7 +202,6 @@
     "color_description": "字幕のテキスト色を選択します。",
     "vertical_position": "垂直位置",
     "vertical_position_description": "字幕の垂直位置を調整します。",
-
     "delete_account_warning_title": "本当によろしいですか？",
     "delete_account_warning_description": "この操作は取り消せません。あなたのアカウントは完全に削除され、サーバーからデータも削除されます。",
     "delete_account_final_warning_title": "本当に実行しますか？",

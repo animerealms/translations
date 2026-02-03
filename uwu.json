@@ -57,7 +57,13 @@
     "planning": "Maybe Later",
     "rewatching": "Round Two",
     "repeating": "Looping It",
-    "current": "Vibing"
+    "current": "Vibing",
+    "watched": "Watched",
+    "schedule": "Schedule",
+    "trending": "Trending",
+    "popular": "Popular",
+    "top": "Top Anime",
+    "season": "This Season"
   },
   "AnimeDialog": {
     "synopsis": "THE LORE",
