@@ -49,7 +49,15 @@
     "edit": "एडिट",
     "back": "वापस",
     "next": "आगे",
-    "skip": "छोड़ें"
+    "skip": "छोड़ें",
+    "watching": "देख रहे हैं",
+    "completed": "पूरा कर लिया",
+    "paused": "पॉज़ किया",
+    "dropped": "छोड़ दिया (Dropped)",
+    "planning": "प्लानिंग",
+    "rewatching": "फिर से देख रहे हैं",
+    "repeating": "दोहरा रहे हैं",
+    "current": "वर्तमान"
   },
   "AnimeDialog": {
     "synopsis": "सिनोप्सिस",
@@ -192,7 +200,16 @@
     "delete_account_warning_title": "क्या आप पूरी तरह निश्चित हैं?",
     "delete_account_warning_description": "इस कार्रवाई को पूर्ववत नहीं किया जा सकता है। यह आपके खाते को स्थायी रूप से हटा देगा और हमारे सर्वर से आपका डेटा हटा देगा।",
     "delete_account_final_warning_title": "क्या आप निश्चित हैं?",
-    "delete_account_final_warning_description": "हम गंभीर हैं। आपकी सारी प्रगति हमेशा के लिए खो जाएगी।"
+    "delete_account_final_warning_description": "हम गंभीर हैं। आपकी सारी प्रगति हमेशा के लिए खो जाएगी।",
+
+    "homepage_section": "होमपेज",
+    "active_sections": "सक्रिय अनुभाग",
+    "active_sections_desc": "ये अनुभाग होमपेज पर इस क्रम में प्रदर्शित किए जाएंगे।",
+    "available_sections": "उपलब्ध अनुभाग",
+    "available_sections_desc": "इन अनुभागों को अपने होमपेज में जोड़ने के लिए क्लिक करें।",
+    "profile_section": "प्रोफ़ाइल",
+    "profile_list_order": "सूची का क्रम",
+    "profile_list_order_desc": "अपनी प्रोफ़ाइल सूची को पुनर्व्यवस्थित करने के लिए खींचें और छोड़ें।"
   },
   "LoginPage": {
     "title": "अपने अकाउंट में लॉगिन करें",

@@ -49,7 +49,23 @@
     "edit": "Edit",
     "back": "Back",
     "next": "Next",
-    "skip": "Skip"
+    "back": "Back",
+    "next": "Next",
+    "skip": "Skip",
+    "watching": "Watching",
+    "watched": "Watched",
+    "schedule": "Schedule",
+    "trending": "Trending",
+    "popular": "Popular",
+    "top": "Top Anime",
+    "season": "This Season",
+    "planning": "Planning",
+    "completed": "Completed",
+    "dropped": "Dropped",
+    "paused": "Paused",
+    "rewatching": "Rewatching",
+    "repeating": "Repeating",
+    "current": "Current"
   },
   "AnimeDialog": {
     "synopsis": "SYNOPSIS",
@@ -192,7 +208,15 @@
     "color_description": "Choose the color of the subtitle text.",
     "vertical_position": "Vertical Position",
     "vertical_position_description": "Adjust the vertical position of the subtitles.",
-    "reset_subtitle_settings": "Reset Subtitle Settings"
+    "reset_subtitle_settings": "Reset Subtitle Settings",
+    "homepage_section": "Homepage",
+    "active_sections": "Active Sections",
+    "active_sections_desc": "These sections will be displayed on the homepage in this order.",
+    "available_sections": "Available Sections",
+    "available_sections_desc": "Click to add these sections to your homepage.",
+    "profile_section": "Profile",
+    "profile_list_order": "Watch List Order",
+    "profile_list_order_desc": "Drag and drop to reorder your watch lists on your profile page."
   },
   "LoginPage": {
     "title": "Login to your account",

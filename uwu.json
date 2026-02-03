@@ -49,7 +49,15 @@
     "edit": "Tweaks",
     "back": "Go Back",
     "next": "Next-u",
-    "skip": "Skip-u"
+    "skip": "Skip-u",
+    "watching": "Bingeing",
+    "completed": "Finished",
+    "paused": "On Hold",
+    "dropped": "Dumped It",
+    "planning": "Maybe Later",
+    "rewatching": "Round Two",
+    "repeating": "Looping It",
+    "current": "Vibing"
   },
   "AnimeDialog": {
     "synopsis": "THE LORE",
@@ -188,11 +196,19 @@
     "color_description": "Pick a color that sparks joy!",
     "vertical_position": "Up or Down?",
     "vertical_position_description": "Move the words up or down.",
+    "homepage_section": "Home-u",
+    "active_sections": "Active Stuffs",
+    "active_sections_desc": "Dees things will show on da home page like dis (・`ω´・)",
+    "available_sections": "Available Stuffs",
+    "available_sections_desc": "Click to add dees things to ur home page (⁄ ⁄•⁄ω⁄•⁄ ⁄)",
     "reset_subtitle_settings": "Reset Everything!",
     "delete_account_warning_title": "Wait, really?? (O_O)",
     "delete_account_warning_description": "There's no going back, senpai! Your account will go poof! Forever!",
     "delete_account_final_warning_title": "REALLY REALLY??",
-    "delete_account_final_warning_description": "We're not kidding! Your progress goes bye-bye!"
+    "delete_account_final_warning_description": "We're not kidding! Your progress goes bye-bye!",
+    "profile_section": "Pwofiwe",
+    "profile_list_order": "Watch Wist Owdew",
+    "profile_list_order_desc": "Dwag and dwop to weowdew youw watch wists on youw pwofiwe page. (・`ω´・)"
   },
   "LoginPage": {
     "title": "Identify Yourself",

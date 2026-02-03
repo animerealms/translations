@@ -49,7 +49,15 @@
     "edit": "编辑",
     "back": "返回",
     "next": "下一步",
-    "skip": "跳过"
+    "skip": "跳过",
+    "watching": "在看",
+    "completed": "看过",
+    "paused": "搁置",
+    "dropped": "抛弃",
+    "planning": "想看",
+    "rewatching": "重温",
+    "repeating": "重看",
+    "current": "当前"
   },
   "AnimeDialog": {
     "synopsis": "简介",
@@ -192,7 +200,15 @@
     "color_description": "选择字幕文字的颜色。",
     "vertical_position": "垂直位置",
     "vertical_position_description": "调整字幕的垂直位置。",
-    "reset_subtitle_settings": "重置字幕设置"
+    "reset_subtitle_settings": "重置字幕设置",
+    "homepage_section": "主页",
+    "active_sections": "活动板块",
+    "active_sections_desc": "这些板块将按此顺序显示在主页上。",
+    "available_sections": "可用板块",
+    "available_sections_desc": "点击将这些板块添加到您的主页。",
+    "profile_section": "个人资料",
+    "profile_list_order": "列表顺序",
+    "profile_list_order_desc": "拖放以重新排序个人资料页面上的观看列表。"
   },
   "LoginPage": {
     "title": "登录您的账户",

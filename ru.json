@@ -49,7 +49,15 @@
     "edit": "Изменить",
     "back": "Назад",
     "next": "Далее",
-    "skip": "Пропустить"
+    "skip": "Пропустить",
+    "watching": "Смотрю",
+    "completed": "Просмотрено",
+    "paused": "На паузе",
+    "dropped": "Брошено",
+    "planning": "В планах",
+    "rewatching": "Пересматриваю",
+    "repeating": "Повтор",
+    "current": "Текущее"
   },
   "AnimeDialog": {
     "synopsis": "СЮЖЕТ",
@@ -188,11 +196,20 @@
     "color_description": "Выберите цвет текста субтитров.",
     "vertical_position": "Вертикальное положение",
     "vertical_position_description": "Настройте вертикальное положение субтитров.",
-    "reset_subtitle_settings": "Сбросить настройки субтитров",
+
     "delete_account_warning_title": "Вы абсолютно уверены?",
     "delete_account_warning_description": "Это действие необратимо. Это навсегда удалит ваш аккаунт и сотрет ваши данные с наших серверов.",
     "delete_account_final_warning_title": "ВЫ УВЕРЕНЫ?",
-    "delete_account_final_warning_description": "Мы серьезно. Весь ваш прогресс будет утерян навсегда."
+    "delete_account_final_warning_description": "Мы серьезно. Весь ваш прогресс будет утерян навсегда.",
+    "reset_subtitle_settings": "Сбросить настройки субтитров",
+    "homepage_section": "Главная",
+    "active_sections": "Активные разделы",
+    "active_sections_desc": "Эти разделы будут отображаться на главной странице в этом порядке。",
+    "available_sections": "Доступные разделы",
+    "available_sections_desc": "Нажмите, чтобы добавить эти разделы на главную страницу。",
+    "profile_section": "Профиль",
+    "profile_list_order": "Порядок списков",
+    "profile_list_order_desc": "Перетащите, чтобы изменить порядок списков просмотра на странице профиля."
   },
   "LoginPage": {
     "title": "Войди в аккаунт",

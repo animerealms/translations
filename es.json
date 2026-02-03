@@ -49,7 +49,15 @@
     "edit": "Editar",
     "back": "Atrás",
     "next": "Siguiente",
-    "skip": "Omitir"
+    "skip": "Omitir",
+    "watching": "Viendo",
+    "completed": "Completado",
+    "paused": "Pausado",
+    "dropped": "Abandonado",
+    "planning": "Planeando",
+    "rewatching": "Reviendo",
+    "repeating": "Repitiendo",
+    "current": "Actual"
   },
   "AnimeDialog": {
     "synopsis": "SINOPSIS",
@@ -188,11 +196,20 @@
     "color_description": "Elige el color del texto de los subtítulos.",
     "vertical_position": "Posición vertical",
     "vertical_position_description": "Ajusta la posición vertical de los subtítulos.",
-    "reset_subtitle_settings": "Restablecer configuración de subtítulos",
+
     "delete_account_warning_title": "¿Estás absolutamente seguro?",
     "delete_account_warning_description": "Esta acción no se puede deshacer. Esto eliminará permanentemente tu cuenta y borrará tus datos de nuestros servidores.",
     "delete_account_final_warning_title": "¿ESTÁS SEGURO?",
-    "delete_account_final_warning_description": "Hablamos en serio. Todo tu progreso se perderá para siempre."
+    "delete_account_final_warning_description": "Hablamos en serio. Todo tu progreso se perderá para siempre.",
+    "reset_subtitle_settings": "Restablecer configuración de subtítulos",
+    "homepage_section": "Inicio",
+    "active_sections": "Secciones activas",
+    "active_sections_desc": "Estas secciones se mostrarán en la página de inicio en este orden.",
+    "available_sections": "Secciones disponibles",
+    "available_sections_desc": "Haga clic para agregar estas secciones a su página de inicio.",
+    "profile_section": "Perfil",
+    "profile_list_order": "Orden de listas",
+    "profile_list_order_desc": "Arrastra y suelta para reordenar tus listas de seguimiento en tu página de perfil."
   },
   "LoginPage": {
     "title": "Inicia sesión en tu cuenta",

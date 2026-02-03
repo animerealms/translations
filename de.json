@@ -49,7 +49,15 @@
     "edit": "Bearbeiten",
     "back": "Zurück",
     "next": "Weiter",
-    "skip": "Überspringen"
+    "skip": "Überspringen",
+    "watching": "Am Schauen",
+    "completed": "Abgeschlossen",
+    "paused": "Pausiert",
+    "dropped": "Abgebrochen",
+    "planning": "Geplant",
+    "rewatching": "Re-Watching",
+    "repeating": "Wiederholen",
+    "current": "Aktuell"
   },
   "AnimeDialog": {
     "synopsis": "ZUSAMMENFASSUNG",
@@ -192,7 +200,16 @@
     "delete_account_warning_title": "Bist du dir absolut sicher?",
     "delete_account_warning_description": "Diese Aktion kann nicht rückgängig gemacht werden. Dies wird dein Konto dauerhaft löschen und deine Daten von unseren Servern entfernen.",
     "delete_account_final_warning_title": "BIST DU SICHER?",
-    "delete_account_final_warning_description": "Wir meinen es ernst. Dein gesamter Fortschritt wird für immer verloren sein."
+    "delete_account_final_warning_description": "Wir meinen es ernst. Dein gesamter Fortschritt wird für immer verloren sein.",
+
+    "homepage_section": "Startseite",
+    "active_sections": "Aktive Abschnitte",
+    "active_sections_desc": "Diese Abschnitte werden auf der Startseite in dieser Reihenfolge angezeigt.",
+    "available_sections": "Verfügbare Abschnitte",
+    "available_sections_desc": "Klicken Sie hier, um diese Abschnitte zu Ihrer Startseite hinzuzufügen.",
+    "profile_section": "Profil",
+    "profile_list_order": "Listenreihenfolge",
+    "profile_list_order_desc": "Ziehen und ablegen, um die Reihenfolge deiner Listen auf deiner Profilseite zu ändern."
   },
   "LoginPage": {
     "title": "In dein Konto einloggen",

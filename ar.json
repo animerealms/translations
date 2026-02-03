@@ -49,7 +49,15 @@
     "edit": "تعديل",
     "back": "رجوع",
     "next": "التالي",
-    "skip": "تخطي"
+    "skip": "تخطي",
+    "watching": "يشاهد",
+    "completed": "مكتمل",
+    "paused": "متوقف مؤقتاً",
+    "dropped": "متوقف",
+    "planning": "مخطط",
+    "rewatching": "يعيد المشاهدة",
+    "repeating": "إعادة",
+    "current": "حاليا"
   },
   "AnimeDialog": {
     "synopsis": "الملخص",
@@ -188,11 +196,20 @@
     "color_description": "اختر لون نص الترجمة.",
     "vertical_position": "الموضع الرأسي",
     "vertical_position_description": "ضبط الموضع الرأسي للترجمة.",
-    "reset_subtitle_settings": "إعادة تعيين إعدادات الترجمة",
+
     "delete_account_warning_title": "هل أنت متأكد تمامًا؟",
     "delete_account_warning_description": "هذا الإجراء لا يمكن التراجع عنه. سيؤدي هذا إلى حذف حسابك بشكل دائم وإزالة بياناتك من خوادمنا.",
     "delete_account_final_warning_title": "هل أنت متأكد؟",
-    "delete_account_final_warning_description": "نحن جادون. سيضيع كل تقدمك إلى الأبد."
+    "delete_account_final_warning_description": "نحن جادون. سيضيع كل تقدمك إلى الأبد.",
+    "reset_subtitle_settings": "إعادة تعيين إعدادات الترجمة",
+    "homepage_section": "الرئيسية",
+    "active_sections": "الأقسام النشطة",
+    "active_sections_desc": "سيتم عرض هذه الأقسام على الصفحة الرئيسية بهذا الترتيب.",
+    "available_sections": "الأقسام المتاحة",
+    "available_sections_desc": "انقر لإضافة هذه الأقسام إلى صفحتك الرئيسية.",
+    "profile_section": "الملف الشخصي",
+    "profile_list_order": "ترتيب القوائم",
+    "profile_list_order_desc": "اسحب وأفلت لإعادة ترتيب قوائم المشاهدة في صفحة ملفك الشخصي."
   },
   "LoginPage": {
     "title": "تسجيل الدخول إلى حسابك",

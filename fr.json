@@ -49,7 +49,15 @@
     "edit": "Éditer",
     "back": "Retour",
     "next": "Suivant",
-    "skip": "Passer"
+    "skip": "Passer",
+    "watching": "En cours",
+    "completed": "Terminé",
+    "paused": "En pause",
+    "dropped": "Abandonné",
+    "planning": "À voir",
+    "rewatching": "Revisionnage",
+    "repeating": "Répétition",
+    "current": "En cours"
   },
   "AnimeDialog": {
     "synopsis": "SYNOPSIS",
@@ -188,11 +196,20 @@
     "color_description": "Choisissez la couleur du texte des sous-titres.",
     "vertical_position": "Position verticale",
     "vertical_position_description": "Ajustez la position verticale des sous-titres.",
-    "reset_subtitle_settings": "Réinitialiser les paramètres des sous-titres",
+
     "delete_account_warning_title": "Êtes-vous absolument sûr ?",
     "delete_account_warning_description": "Cette action est irréversible. Cela supprimera définitivement votre compte et effacera vos données de nos serveurs.",
     "delete_account_final_warning_title": "ÊTES-VOUS SÛR ?",
-    "delete_account_final_warning_description": "Nous sommes sérieux. Toute votre progression sera perdue à jamais."
+    "delete_account_final_warning_description": "Nous sommes sérieux. Toute votre progression sera perdue à jamais.",
+    "reset_subtitle_settings": "Réinitialiser les paramètres des sous-titres",
+    "homepage_section": "Accueil",
+    "active_sections": "Sections actives",
+    "active_sections_desc": "Ces sections seront affichées sur la page d'accueil dans cet ordre.",
+    "available_sections": "Sections disponibles",
+    "available_sections_desc": "Cliquez pour ajouter ces sections à votre page d'accueil.",
+    "profile_section": "Profil",
+    "profile_list_order": "Ordre des listes",
+    "profile_list_order_desc": "Glissez et déposez pour réorganiser vos listes de visionnage sur votre page de profil."
   },
   "LoginPage": {
     "title": "Connecte-toi à ton compte",

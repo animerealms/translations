@@ -49,7 +49,15 @@
     "edit": "編集",
     "back": "戻る",
     "next": "次へ",
-    "skip": "スキップ"
+    "skip": "スキップ",
+    "watching": "視聴中",
+    "completed": "視聴完了",
+    "paused": "一時中断",
+    "dropped": "視聴中止",
+    "planning": "視聴予定",
+    "rewatching": "再視聴中",
+    "repeating": "リピート中",
+    "current": "現在"
   },
   "AnimeDialog": {
     "synopsis": "あらすじ",
@@ -188,11 +196,20 @@
     "color_description": "字幕のテキスト色を選択します。",
     "vertical_position": "垂直位置",
     "vertical_position_description": "字幕の垂直位置を調整します。",
-    "reset_subtitle_settings": "字幕設定をリセット",
+
     "delete_account_warning_title": "本当によろしいですか？",
     "delete_account_warning_description": "この操作は取り消せません。あなたのアカウントは完全に削除され、サーバーからデータも削除されます。",
     "delete_account_final_warning_title": "本当に実行しますか？",
-    "delete_account_final_warning_description": "これは重大な操作です。すべての進捗状況が永久に失われます。"
+    "delete_account_final_warning_description": "これは重大な操作です。すべての進捗状況が永久に失われます。",
+    "reset_subtitle_settings": "字幕設定をリセット",
+    "homepage_section": "ホームページ",
+    "active_sections": "アクティブなセクション",
+    "active_sections_desc": "これらのセクションは、ホームページにこの順序で表示されます。",
+    "available_sections": "利用可能なセクション",
+    "available_sections_desc": "クリックしてこれらのセクションをホームページに追加します。",
+    "profile_section": "プロフィール",
+    "profile_list_order": "リストの並び順",
+    "profile_list_order_desc": "ドラッグアンドドロップして、プロフィールページのウォッチリストを並べ替えます。"
   },
   "LoginPage": {
     "title": "アカウントにログイン",
