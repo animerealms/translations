@@ -368,7 +368,11 @@
     "playbackError": "Video machine broke (T_T)",
     "idle_watching": "YUWU AWE WATCHING",
     "idle_episode": "Episowode {number}",
-    "idle_resume": "Cwick anywhewe to wesume (* ^ ω ^)"
+    "idle_resume": "Cwick anywhewe to wesume (* ^ ω ^)",
+    "skipIntro": "Skip Intwo",
+    "skipRecap": "Skip Wecap",
+    "skipOutro": "Skip Outwo",
+    "skipped": "Skipped uwu"
   },
   "UserProfile": {
     "noBanner": "No Banner... (sad)",

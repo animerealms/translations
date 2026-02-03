@@ -368,7 +368,11 @@
     "playbackError": "Playback error occurred.",
     "idle_watching": "YOU'RE WATCHING",
     "idle_episode": "Episode {number}",
-    "idle_resume": "Click anywhere to resume"
+    "idle_resume": "Click anywhere to resume",
+    "skipIntro": "Skip Intro",
+    "skipRecap": "Skip Recap",
+    "skipOutro": "Skip Outro",
+    "skipped": "Skipped"
   },
   "UserProfile": {
     "noBanner": "No Banner",

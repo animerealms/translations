@@ -368,7 +368,11 @@
     "playbackError": "प्लेबैक त्रुटि हुई।",
     "idle_watching": "आप देख रहे हैं",
     "idle_episode": "एपिसोड {number}",
-    "idle_resume": "फिर से शुरू करने के लिए कहीं भी क्लिक करें"
+    "idle_resume": "फिर से शुरू करने के लिए कहीं भी क्लिक करें",
+    "skipIntro": "इंट्रो छोड़ें",
+    "skipRecap": "रिकैप छोड़ें",
+    "skipOutro": "आउट्रो छोड़ें",
+    "skipped": "छोड़ दिया"
   },
   "UserProfile": {
     "noBanner": "कोई बैनर नहीं",

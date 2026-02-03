@@ -368,7 +368,11 @@
     "playbackError": "播放发生错误。",
     "idle_watching": "您正在观看",
     "idle_episode": "第 {number} 集",
-    "idle_resume": "点击任意处继续"
+    "idle_resume": "点击任意处继续",
+    "skipIntro": "跳过片头",
+    "skipRecap": "跳过回顾",
+    "skipOutro": "跳过片尾",
+    "skipped": "已跳过"
   },
   "UserProfile": {
     "noBanner": "暂无横幅",

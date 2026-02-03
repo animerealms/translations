@@ -368,7 +368,11 @@
     "playbackError": "حدث خطأ في التشغيل.",
     "idle_watching": "أنت تشاهد",
     "idle_episode": "الحلقة {number}",
-    "idle_resume": "انقر في أي مكان للمتابعة"
+    "idle_resume": "انقر في أي مكان للمتابعة",
+    "skipIntro": "تخطي المقدمة",
+    "skipRecap": "تخطي الملخص",
+    "skipOutro": "تخطي للنهاية",
+    "skipped": "تم التخطي"
   },
   "UserProfile": {
     "noBanner": "لا يوجد شعار",

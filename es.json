@@ -368,7 +368,11 @@
     "playbackError": "Ocurrió un error de reproducción.",
     "idle_watching": "ESTÁS VIENDO",
     "idle_episode": "Episodio {number}",
-    "idle_resume": "Haz clic en cualquier lugar para reanudar"
+    "idle_resume": "Haz clic en cualquier lugar para reanudar",
+    "skipIntro": "Saltar Intro",
+    "skipRecap": "Saltar Resumen",
+    "skipOutro": "Saltar Outro",
+    "skipped": "Saltado"
   },
   "UserProfile": {
     "noBanner": "Sin Banner",

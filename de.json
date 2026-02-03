@@ -368,7 +368,11 @@
     "playbackError": "Wiedergabefehler aufgetreten.",
     "idle_watching": "DU SCHAUST",
     "idle_episode": "Folge {number}",
-    "idle_resume": "Klicken Sie irgendwo, um fortzufahren"
+    "idle_resume": "Klicken Sie irgendwo, um fortzufahren",
+    "skipIntro": "Intro überspringen",
+    "skipRecap": "Zusammenfassung überspringen",
+    "skipOutro": "Outro überspringen",
+    "skipped": "Übersprungen"
   },
   "UserProfile": {
     "noBanner": "Kein Banner",

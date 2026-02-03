@@ -368,7 +368,11 @@
     "playbackError": "再生エラーが発生しました。",
     "idle_watching": "視聴中",
     "idle_episode": "エピソード {number}",
-    "idle_resume": "再開するにはどこかをクリックしてください"
+    "idle_resume": "再開するにはどこかをクリックしてください",
+    "skipIntro": "イントロをスキップ",
+    "skipRecap": "あらすじをスキップ",
+    "skipOutro": "アウトロをスキップ",
+    "skipped": "スキップしました"
   },
   "UserProfile": {
     "noBanner": "バナーなし",
